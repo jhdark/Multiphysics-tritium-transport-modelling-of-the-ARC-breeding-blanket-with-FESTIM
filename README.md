@@ -1,6 +1,6 @@
 # Multiphysics tritium transport modelling of the ARC breeding blanket with FESTIM
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1436280903.svg)](https://doi.org/10.5281/zenodo.23717640)
 [![arXiv](https://img.shields.io/badge/arXiv-2608.05398-b31b1b.svg)](https://arxiv.org/abs/2608.05398)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
