@@ -13,4 +13,5 @@ dependencies:
   - pip:
       - foam2dolfinx
       - openmc2dolfinx
+      - morethemes
       - h-transport-materials
