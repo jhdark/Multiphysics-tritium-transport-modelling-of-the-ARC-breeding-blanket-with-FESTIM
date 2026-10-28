@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large input data: stored zipped in data/*.zip and extracted on first use
+# by data_utils.py
+data/NewOF_symmBCs/
+results/OpenFOAM_results_ORNL/
