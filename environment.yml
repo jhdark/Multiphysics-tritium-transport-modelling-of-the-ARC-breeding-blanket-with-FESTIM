@@ -1,0 +1,16 @@
+name: arc-modelling-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python<3.14
+  - festim=2.0b2
+  - pyvista
+  - pint
+  - matplotlib
+  - pip
+  - pip:
+      - foam2dolfinx
+      - openmc2dolfinx
+      - h-transport-materials
